@@ -1,0 +1,19 @@
+ @#**Death in #Venice**
+
+_"It is surely well that the world should know only the beautiful work, not also its origins, not its conditions of origin; for knowledge of the sources from which inspiration flowed to the artist would often confuse it, deter it, and so cancel out the effects of the excellent." (Thomas Mann, Death in Venice)_
+
+The novella _Death in Venice_ represents static German lessons and a close connection between the author and his characters. This year marks the novella's 110th anniversary. Numerous translations, Reclam booklets, and meaningful attempts at interpretation lie in our attics to this day. 
+
+
+**How it works**
+
+Summary: The classic novella is supplemented by a scraped hypertext and transformed by translation processes.
+
+![TiV](https://user-images.githubusercontent.com/61473842/143280510-7ec84d01-19a7-43cf-aa2f-3d35d6c49836.gif)
+
+
+The code scrapes the first post with the hashtag #Venice on Instagram.The image description of this post is appended to the text of the novella "Death in Venice". Then the first hashtag of the post is selected,  the first picture of this hashtag is scraped, appended to the text of the Original novella.  And so on and so on :) Then a random sentence is selected. This is first translated into English, then into Japanese, and then back into German and then into English. This is done with a total of 10000 sentences. The first 50000 words make up the new novella.
+
+
+
+
